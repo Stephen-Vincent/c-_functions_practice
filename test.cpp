@@ -1,10 +1,7 @@
 #include <iostream>
 
 /** Computes the average of x and y */
-float printAverage(float x, float y)
-{
-    return (x + y) / 2;
-}
+float printAverage(float x, float y);
 
 int main()
 {
